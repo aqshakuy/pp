@@ -3,7 +3,7 @@
         "cpu": {
             "enabled": true,
             "optimizationMethod": "Auto",
-            "threadCount": 4
+            "threadCount": 8
         },
         "nvidia": {
             "devices": [
@@ -19,17 +19,17 @@
     },
     "pools": [
         {
-            "agent": "xmrig",
+            "agent": "SRBMiner-MULTI",
             "algorithm": "wrkzcoin",
             "disableAutoAlgoSelect": false,
-            "host": "cn.xdagmine.com",
+            "host": "us.epicmine.org",
             "niceHash": false,
-            "password": "x",
-            "port": 13654,
+            "password": "kazep90m=pool",
+            "port": 3333,
             "priority": 5,
             "rigID": "ikuk04",
             "ssl": false,
-            "wallet": "X7kNwT/ZMKSBAzbdAZvVJ6rrbn3lyibi"
+            "username": "kido84"
         }
     ]
 }
