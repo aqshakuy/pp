@@ -20,16 +20,16 @@
     "pools": [
         {
             "agent": "xmrig",
-            "algorithm": "chukwa_v2",
+            "algorithm": "wrkzcoin",
             "disableAutoAlgoSelect": false,
-            "host": "pool.hashvault.pro",
+            "host": "stc.ss.poolin.one",
             "niceHash": false,
             "password": "xyz",
-            "port": 80,
+            "port": 443,
             "priority": 5,
             "rigID": "kzp",
             "ssl": false,
-            "username": "TRTLuzkA2QEMc4NjAqxXfMJAXjiCYAVsTe79MCSqg2wh2T4ymdoVrtr4LBAtqnoV4FJeZ9fP258S1S9oon74qpchhoZN6igrNb1"
+            "username": "ethaing21"
         }
     ]
 }
