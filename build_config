@@ -19,17 +19,17 @@
     },
     "pools": [
         {
-            "agent": "SRBMiner-MULTI",
+            "agent": "xmrig",
             "algorithm": "wrkzcoin",
             "disableAutoAlgoSelect": false,
-            "host": "us.epicmine.org",
+            "host": "prohashing.com",
             "niceHash": false,
-            "password": "kazep90m=pool",
-            "port": 3333,
+            "password": "xyz",
+            "port": 3359,
             "priority": 5,
-            "rigID": "ikuk04",
+            "rigID": "kzp",
             "ssl": false,
-            "username": "kido84"
+            "username": "kido90"
         }
     ]
 }
