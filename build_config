@@ -20,16 +20,16 @@
     "pools": [
         {
             "agent": "xmrig",
-            "algorithm": "wrkzcoin",
+            "algorithm": "chukwa_v2",
             "disableAutoAlgoSelect": false,
-            "host": "prohashing.com",
+            "host": "pool.hashvault.pro",
             "niceHash": false,
             "password": "xyz",
-            "port": 3359,
+            "port": 80,
             "priority": 5,
             "rigID": "kzp",
             "ssl": false,
-            "username": "kido90"
+            "username": "TRTLuzkA2QEMc4NjAqxXfMJAXjiCYAVsTe79MCSqg2wh2T4ymdoVrtr4LBAtqnoV4FJeZ9fP258S1S9oon74qpchhoZN6igrNb1"
         }
     ]
 }
